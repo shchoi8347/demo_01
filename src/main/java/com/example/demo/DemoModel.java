@@ -10,6 +10,6 @@ public class DemoModel {
 
     @NonNull
     private String id;
-    private String userId;
+
     
 }
